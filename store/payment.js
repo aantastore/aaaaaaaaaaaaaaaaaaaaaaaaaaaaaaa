@@ -1,0 +1,8 @@
+exports.payment = (prefix) => {
+return `PAYMENT NYA!!
+GOPAY : MINTA OWNER
+DANA : 083135874245
+OVO : MINTA OWNER
+PULSA : 083135874245 Axis
+QRIS : MINTA OWNER`
+}
